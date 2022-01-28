@@ -1,0 +1,30 @@
+body {
+  background: white;
+  margin: 0;
+}
+
+.date-and-hour {
+  text-align: left;
+  margin: 0 5%;
+}
+.sono-ore {
+  text-align: left;
+  margin: 0 5% 0 5%;
+  display: inline;
+  float: left;
+}
+#MyClockDisplay {
+  border: 1px solid;
+  padding: 6px 12px;
+  background-color: rgb(186, 190, 186);
+}
+.clock {
+  color: #197185;
+  font-size: 50px;
+  font-family: Roboto;
+  font-weight: 400;
+  letter-spacing: 4px;
+  display: inline;
+  float: left;
+  margin-top: 8px;
+}
